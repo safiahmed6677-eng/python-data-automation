@@ -82,3 +82,4 @@ python automation.py
 
 ![Report Screenshot](assets/revenue_by_region.png)
 ![Report Screenshot](assets/revenue_by_region.png)
+![Report Screenshot](assets/revenue_over_time1.png)
