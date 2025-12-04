@@ -22,5 +22,3 @@ print(df.groupby("Region")["Revenue"].sum())
 
 print("\nDone!")
 
-
-
