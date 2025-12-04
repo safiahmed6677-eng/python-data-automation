@@ -80,7 +80,7 @@ python automation.py
 
 ## 📸 Example Output
 
-[Summary Report](assets/summary_report.png)
-[Revenue by Product](assets/revenue_by_product.png)
-[Revenue by Region](assets/revenue_by_region.png)
-[Revenue Over Time](assets/revenue_over_time.png)
+![Report Screenshot](assets/summary_report.png)
+![Report Screenshot](assets/revenue_by_region.png)
+![Report Screenshot](assets/revenue_by_region.png)
+![Report Screenshot](assets/revenue_over_time.png)
