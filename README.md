@@ -84,10 +84,6 @@ It proves your ability to:
 
 ---
 
-If you'd like, I can rewrite the **entire Python Automation README** in the same aesthetic style as the others.
-
----
-
 ## 🚀 Features
 - Reads raw CSV input  
 - Handles missing values + outliers  
